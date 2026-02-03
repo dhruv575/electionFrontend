@@ -13,7 +13,7 @@
     "d_won": "FALSE",
     "d_market_slug": "which-party-will-control-the-us-senate-after-the-2024-election",
     "r_market_slug": null,
-    "resolution_date": "2024-11-08 19:08:11+00"
+    "resolution_date": "2024-11-08"
   },
   {
     "name": "Who will win the 2024 US Presidential Election?",
@@ -29,7 +29,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-kamala-harris-win-the-2024-us-presidential-election",
     "r_market_slug": "will-donald-trump-win-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 18:03:54+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win the popular vote?",
@@ -45,7 +45,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-kamala-harris-win-the-popular-vote-in-the-2024-presidential-election",
     "r_market_slug": "will-donald-trump-win-the-popular-vote-in-the-2024-presidential-election",
-    "resolution_date": "2024-11-12 10:03:19+00"
+    "resolution_date": "2024-11-12"
   },
   {
     "name": "House control after 2024 election?",
@@ -61,7 +61,7 @@
     "d_won": "FALSE",
     "d_market_slug": "house-control-after-2024-election",
     "r_market_slug": null,
-    "resolution_date": "2024-11-22 02:57:04+00"
+    "resolution_date": "2024-11-22"
   },
   {
     "name": "Who will win Alabama in the Presidential Election?",
@@ -77,7 +77,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-alabama-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-alabama-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 12:10:58+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Montana in the Presidential Election?",
@@ -93,7 +93,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-montana-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-montana-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 19:14:51+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Nebraska in the Presidential Election?",
@@ -109,7 +109,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-nebraska-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-nebraska-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 11:35:01+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Alaska in the Presidential Election?",
@@ -125,7 +125,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-alaska-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-alaska-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-07 22:44:20+00"
+    "resolution_date": "2024-11-07"
   },
   {
     "name": "Who will win Arizona in the Presidential Election?",
@@ -141,7 +141,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-arizona-presidential-election",
     "r_market_slug": "will-a-republican-win-arizona-presidential-election",
-    "resolution_date": "2024-11-10 08:31:39+00"
+    "resolution_date": "2024-11-10"
   },
   {
     "name": "Who will win Nevada in the Presidential Election?",
@@ -157,7 +157,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-nevada-presidential-election",
     "r_market_slug": "will-a-republican-win-nevada-presidential-election",
-    "resolution_date": "2024-11-09 20:17:00+00"
+    "resolution_date": "2024-11-09"
   },
   {
     "name": "Who will win Arkansas in the Presidential Election?",
@@ -173,7 +173,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-arkansas-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-arkansas-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 12:00:14+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win California in the Presidential Election?",
@@ -189,7 +189,7 @@
     "d_won": "TRUE",
     "d_market_slug": "will-a-democrat-win-california-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-california-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 21:20:34+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win New Hampshire in the Presidential Election?",
@@ -205,7 +205,7 @@
     "d_won": "TRUE",
     "d_market_slug": "will-a-democrat-win-new-hampshire-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-new-hampshire-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 17:54:10+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Colorado in the Presidential Election?",
@@ -221,7 +221,7 @@
     "d_won": "TRUE",
     "d_market_slug": "will-a-democrat-win-colorado-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-colorado-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 19:36:09+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Connecticut in the Presidential Election?",
@@ -237,7 +237,7 @@
     "d_won": "TRUE",
     "d_market_slug": "will-a-democrat-win-connecticut-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-connecticut-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 15:44:12+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win New Jersey in the Presidential Election?",
@@ -253,7 +253,7 @@
     "d_won": "TRUE",
     "d_market_slug": "will-a-democrat-win-new-jersey-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-new-jersey-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 14:15:52+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Florida in the Presidential Election?",
@@ -269,7 +269,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-florida-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-florida-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 10:05:34+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Georgia in the Presidential Election?",
@@ -285,7 +285,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-georgia-presidential-election",
     "r_market_slug": "will-a-republican-win-georgia-presidential-election",
-    "resolution_date": "2024-11-07 14:12:57+00"
+    "resolution_date": "2024-11-07"
   },
   {
     "name": "Who will win Hawaii in the Presidential Election?",
@@ -301,7 +301,7 @@
     "d_won": "TRUE",
     "d_market_slug": "will-a-democrat-win-hawaii-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-hawaii-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 17:19:34+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win North Carolina in the Presidential Election?",
@@ -317,7 +317,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-north-carolina-presidential-election",
     "r_market_slug": "will-a-republican-win-north-carolina-presidential-election",
-    "resolution_date": "2024-11-06 10:05:40+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Idaho in the Presidential Election?",
@@ -333,7 +333,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-idaho-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-idaho-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 15:39:08+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win North Dakota in the Presidential Election?",
@@ -349,7 +349,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-north-dakota-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-north-dakota-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 16:09:05+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Illinois in the Presidential Election?",
@@ -365,7 +365,7 @@
     "d_won": "TRUE",
     "d_market_slug": "will-a-democrat-win-illinois-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-illinois-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 15:54:38+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Indiana in the Presidential Election?",
@@ -381,7 +381,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-indiana-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-indiana-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 17:05:06+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Kansas in the Presidential Election?",
@@ -397,7 +397,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-kansas-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-kansas-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 13:46:02+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Ohio in the Presidential Election?",
@@ -413,7 +413,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-ohio-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-ohio-in-the-2024-us-presidential-election-2024",
-    "resolution_date": "2024-11-06 14:50:48+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Kentucky in the Presidential Election?",
@@ -429,7 +429,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-kentucky-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-kentucky-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 10:29:58+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Louisiana in the Presidential Election?",
@@ -445,7 +445,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-louisiana-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-louisiana-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 12:20:54+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Maine in the Presidential Election?",
@@ -461,7 +461,7 @@
     "d_won": "TRUE",
     "d_market_slug": "will-a-democrat-win-maine-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-maine-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-07 03:38:48+00"
+    "resolution_date": "2024-11-07"
   },
   {
     "name": "Who will win Oklahoma in the Presidential Election?",
@@ -477,7 +477,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-oklahoma-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-oklahoma-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 12:20:44+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Massachusetts in the Presidential Election?",
@@ -493,7 +493,7 @@
     "d_won": "TRUE",
     "d_market_slug": "will-a-democrat-win-massachusetts-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-massachusetts-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 15:54:32+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Maryland in the Presidential Election?",
@@ -509,7 +509,7 @@
     "d_won": "TRUE",
     "d_market_slug": "will-a-democrat-win-maryland-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-maryland-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 18:03:50+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Oregon in the Presidential Election?",
@@ -525,7 +525,7 @@
     "d_won": "TRUE",
     "d_market_slug": "will-a-democrat-win-oregon-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-oregon-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 20:45:18+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Michigan in the Presidential Election?",
@@ -541,7 +541,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-michigan-presidential-election",
     "r_market_slug": "will-a-republican-win-michigan-presidential-election",
-    "resolution_date": "2024-11-07 09:59:01+00"
+    "resolution_date": "2024-11-07"
   },
   {
     "name": "Who will win Minnesota in the Presidential Election?",
@@ -557,7 +557,7 @@
     "d_won": "TRUE",
     "d_market_slug": "will-a-democrat-win-minnesota-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-minnesota-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 12:30:24+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Missisippi in the Presidential Election?",
@@ -573,7 +573,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-mississippi-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-mississippi-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 12:20:38+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Missouri in the Presidential Election?",
@@ -589,7 +589,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-missouri-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-missouri-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 12:55:25+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Rhode Island in the Presidential Election?",
@@ -605,7 +605,7 @@
     "d_won": "TRUE",
     "d_market_slug": "will-a-democrat-win-rhode-island-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-rhode-island-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 15:44:08+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win South Carolina in the Presidential Election?",
@@ -621,7 +621,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-south-carolina-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-south-carolina-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 11:09:30+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win South Dakota in the Presidential Election?",
@@ -637,7 +637,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-south-dakota-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-south-dakota-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 15:29:13+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Tennessee in the Presidential Election?",
@@ -653,7 +653,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-tennessee-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-tennessee-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 11:24:41+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Texas in the Presidential Election?",
@@ -669,7 +669,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-texas-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-texas-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 12:10:32+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Utah in the Presidential Election?",
@@ -685,7 +685,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-utah-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-utah-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 14:40:37+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Vermont in the Presidential Election?",
@@ -701,7 +701,7 @@
     "d_won": "TRUE",
     "d_market_slug": "will-a-democrat-win-vermont-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-vermont-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-20 17:38:30.502018+00"
+    "resolution_date": "2024-11-20"
   },
   {
     "name": "Who will win Virginia in the Presidential Election?",
@@ -717,7 +717,7 @@
     "d_won": "TRUE",
     "d_market_slug": "will-a-democrat-win-virginia-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-virginia-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 09:00:42+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Washington in the Presidential Election?",
@@ -733,7 +733,7 @@
     "d_won": "TRUE",
     "d_market_slug": "will-a-democrat-win-washington-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-reoublican-win-washington-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 13:26:41+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win West Virginia in the Presidential Election?",
@@ -749,7 +749,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-west-virginia-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-west-virginia-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 12:50:46+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Wisconsin in the Presidential Election?",
@@ -765,7 +765,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-wisconsin-presidential-election",
     "r_market_slug": "will-a-republican-win-wisconsin-presidential-election",
-    "resolution_date": "2024-11-07 00:59:06+00"
+    "resolution_date": "2024-11-07"
   },
   {
     "name": "Who will win Wyoming in the Presidential Election?",
@@ -781,7 +781,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-wyoming-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-wyoming-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 18:39:06+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win West Virginia in the Governor Election?",
@@ -797,7 +797,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-west-virginia-governor-election",
     "r_market_slug": "will-a-republican-win-west-virginia-governor-election",
-    "resolution_date": "2024-11-07 01:54:02+00"
+    "resolution_date": "2024-11-07"
   },
   {
     "name": "Who will win Pennsylvania in the US Senate Election?",
@@ -813,7 +813,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-pennsylvania-us-senate-election",
     "r_market_slug": "will-a-republican-win-pennsylvania-us-senate-election",
-    "resolution_date": "2024-11-22 04:10:15+00"
+    "resolution_date": "2024-11-22"
   },
   {
     "name": "Who will win Wisconsin in the Senate Election?",
@@ -829,7 +829,7 @@
     "d_won": "TRUE",
     "d_market_slug": "will-a-democrat-win-wisconsin-us-senate-election",
     "r_market_slug": "will-a-republican-win-wisconsin-us-senate-election",
-    "resolution_date": "2024-11-07 19:02:38+00"
+    "resolution_date": "2024-11-07"
   },
   {
     "name": "Who will win Ohio in the Senate Election?",
@@ -845,7 +845,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-ohio-us-senate-election",
     "r_market_slug": "will-a-republican-win-ohio-us-senate-election",
-    "resolution_date": "2024-11-07 06:31:25+00"
+    "resolution_date": "2024-11-07"
   },
   {
     "name": "Who will win Nebraska's 1st congressional district?",
@@ -861,7 +861,7 @@
     "d_won": "FALSE",
     "d_market_slug": "congressional-district-1st-nebraska-will-a-democrat-win",
     "r_market_slug": "congressional-district-1st-nebraska-will-a-republican-win",
-    "resolution_date": "2024-11-06 20:04:38+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Delaware in the Presidential Election?",
@@ -877,7 +877,7 @@
     "d_won": "TRUE",
     "d_market_slug": "will-a-democrat-win-delaware-presidential-election",
     "r_market_slug": "will-a-republican-win-delaware-presidential-election",
-    "resolution_date": "2024-11-06 15:00:30+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win New Mexico in the Presidential Election?",
@@ -893,7 +893,7 @@
     "d_won": "TRUE",
     "d_market_slug": "will-a-democrat-win-new-mexico-presidential-election",
     "r_market_slug": "will-a-republican-win-new-mexico-presidential-election",
-    "resolution_date": "2024-11-06 15:59:27+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win New York in the Presidential Election?",
@@ -909,7 +909,7 @@
     "d_won": "TRUE",
     "d_market_slug": "will-a-democrat-win-new-york-presidential-election",
     "r_market_slug": "will-a-republican-win-new-york-presidential-election",
-    "resolution_date": "2024-11-06 13:36:36+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Nebraska's 2nd congressional district?",
@@ -925,7 +925,7 @@
     "d_won": "TRUE",
     "d_market_slug": "congressional-district-2nd-nebraska-will-a-democrat-win",
     "r_market_slug": "congressional-district-2nd-nebraska-will-a-republican-win",
-    "resolution_date": "2024-11-06 21:25:08+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Nebraska's 3rd congressional district?",
@@ -941,7 +941,7 @@
     "d_won": "FALSE",
     "d_market_slug": "congressional-district-3rd-nebraska-will-a-democrat-win",
     "r_market_slug": "congressional-district-3rd-nebraska-will-a-republican-win",
-    "resolution_date": "2024-11-06 21:35:12+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Maine's 1st congressional district?",
@@ -957,7 +957,7 @@
     "d_won": "TRUE",
     "d_market_slug": "congressional-district-1st-maine-will-a-democrat-win",
     "r_market_slug": "congressional-district-1st-maine-will-a-republican-win",
-    "resolution_date": "2024-11-07 04:03:44+00"
+    "resolution_date": "2024-11-07"
   },
   {
     "name": "Who will win Maine's 2nd congressional district?",
@@ -973,7 +973,7 @@
     "d_won": "FALSE",
     "d_market_slug": "congressional-district-2nd-maine-will-a-democrat-win",
     "r_market_slug": "congressional-district-2nd-maine-will-a-republican-win",
-    "resolution_date": "2024-11-07 19:23:30+00"
+    "resolution_date": "2024-11-07"
   },
   {
     "name": "Who will win Arizona in the Senate Election?",
@@ -989,7 +989,7 @@
     "d_won": "TRUE",
     "d_market_slug": "will-a-democrat-win-arizona-us-senate-election",
     "r_market_slug": "will-a-republican-win-arizona-us-senate-election",
-    "resolution_date": "2024-11-12 10:39:23+00"
+    "resolution_date": "2024-11-12"
   },
   {
     "name": "Who will win Nebraska in the Senate Election?",
@@ -1005,7 +1005,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-nebraska-us-senate-election",
     "r_market_slug": "will-a-republican-win-nebraska-us-senate-election",
-    "resolution_date": "2024-11-06 17:54:08+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Washington DC in the Presedential Election?",
@@ -1021,7 +1021,7 @@
     "d_won": "TRUE",
     "d_market_slug": "will-a-democrat-win-washington-dc-presidential-election",
     "r_market_slug": "will-a-republican-win-washington-dc-presidential-election",
-    "resolution_date": "2024-11-06 16:28:58+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "CA-13 election: Gray (D) vs. Duarte (R)",
@@ -1037,23 +1037,7 @@
     "d_won": "TRUE",
     "d_market_slug": "ca-13-election-gray-d-vs-duarte-r",
     "r_market_slug": null,
-    "resolution_date": "2024-12-04 10:35:28+00"
-  },
-  {
-    "name": "Who will win the 2025 Virginia Attorney General election?",
-    "type": "pair",
-    "combined_volume": 2566287.895,
-    "d_prob_7d": 0.415,
-    "d_prob_6d": 0.4225,
-    "d_prob_5d": 0.3625,
-    "d_prob_4d": 0.3225,
-    "d_prob_3d": 0.2525,
-    "d_prob_2d": 0.3275,
-    "d_prob_1d": 0.44,
-    "d_won": "TRUE",
-    "d_market_slug": "will-jay-jones-win-the-2025-virginia-attorney-general-election",
-    "r_market_slug": "will-jason-miyares-win-the-2025-virginia-attorney-general-election",
-    "resolution_date": "2025-11-05 06:19:09+00"
+    "resolution_date": "2024-12-04"
   },
   {
     "name": "Who will win Pennsylvania in the Presidential Election?",
@@ -1069,7 +1053,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-pennsylvania-presidential-election",
     "r_market_slug": "will-a-republican-win-pennsylvania-presidential-election",
-    "resolution_date": "2024-11-07 12:53:28+00"
+    "resolution_date": "2024-11-07"
   },
   {
     "name": "Who will win Iowa in the Presidential Election?",
@@ -1085,7 +1069,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-iowa-in-the-2024-us-presidential-election",
     "r_market_slug": "will-a-republican-win-iowa-in-the-2024-us-presidential-election",
-    "resolution_date": "2024-11-06 14:30:31+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Washington in the US Senate Election?",
@@ -1101,7 +1085,7 @@
     "d_won": "TRUE",
     "d_market_slug": "will-a-democrat-win-washington-us-senate-election",
     "r_market_slug": "will-a-republican-win-washington-us-senate-election",
-    "resolution_date": "2024-11-07 07:32:20+00"
+    "resolution_date": "2024-11-07"
   },
   {
     "name": "Who will win Texas in the US Senate Election?",
@@ -1117,7 +1101,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-texas-us-senate-election",
     "r_market_slug": "will-a-republican-win-texas-us-senate-election",
-    "resolution_date": "2024-11-07 16:09:12+00"
+    "resolution_date": "2024-11-07"
   },
   {
     "name": "Who will win Maryland in the US Senate Election?",
@@ -1133,7 +1117,7 @@
     "d_won": "TRUE",
     "d_market_slug": "will-a-democrat-win-maryland-us-senate-election",
     "r_market_slug": "will-a-republican-win-maryland-us-senate-election",
-    "resolution_date": "2024-11-07 16:48:54+00"
+    "resolution_date": "2024-11-07"
   },
   {
     "name": "Who will win Delaware in the US Senate Election?",
@@ -1149,7 +1133,7 @@
     "d_won": "TRUE",
     "d_market_slug": "will-a-democrat-win-delaware-us-senate-election",
     "r_market_slug": "will-a-republican-win-delaware-us-senate-election",
-    "resolution_date": "2024-11-07 00:10:55+00"
+    "resolution_date": "2024-11-07"
   },
   {
     "name": "Who will win Utah in the US Senate Election?",
@@ -1165,7 +1149,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-utah-us-senate-election",
     "r_market_slug": "will-a-republican-win-utah-us-senate-election",
-    "resolution_date": "2024-11-07 04:55:00+00"
+    "resolution_date": "2024-11-07"
   },
   {
     "name": "Who will win Connecticut in the US Senate Election?",
@@ -1181,7 +1165,7 @@
     "d_won": "TRUE",
     "d_market_slug": "will-a-democrat-win-connecticut-us-senate-election",
     "r_market_slug": "will-a-republican-win-connecticut-us-senate-election",
-    "resolution_date": "2024-11-07 02:23:26+00"
+    "resolution_date": "2024-11-07"
   },
   {
     "name": "Who will win Montana in the US Senate Election?",
@@ -1197,7 +1181,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-montana-us-senate-election",
     "r_market_slug": "will-a-republican-win-montana-us-senate-election",
-    "resolution_date": "2024-11-06 22:36:07+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Mississippi in the US Senate Election?",
@@ -1213,7 +1197,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-mississippi-us-senate-election",
     "r_market_slug": "will-a-republican-win-mississippi-us-senate-election",
-    "resolution_date": "2024-11-06 21:45:37+00"
+    "resolution_date": "2024-11-06"
   },
   {
     "name": "Who will win Michigan in the US Senate Election?",
@@ -1229,7 +1213,7 @@
     "d_won": "TRUE",
     "d_market_slug": "will-a-democrat-win-michigan-us-senate-election",
     "r_market_slug": "will-a-republican-win-michigan-us-senate-election",
-    "resolution_date": "2024-11-07 13:32:58+00"
+    "resolution_date": "2024-11-07"
   },
   {
     "name": "Who will win Tennessee in the US Senate Election?",
@@ -1245,7 +1229,7 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-tennessee-us-senate-election",
     "r_market_slug": "will-a-republican-win-tennessee-us-senate-election",
-    "resolution_date": "2024-11-07 00:00:44+00"
+    "resolution_date": "2024-11-07"
   },
   {
     "name": "Who will win California in the US Senate Election?",
@@ -1261,7 +1245,7 @@
     "d_won": "TRUE",
     "d_market_slug": "will-a-democrat-win-california-us-senate-election",
     "r_market_slug": "will-a-republican-win-california-us-senate-election",
-    "resolution_date": "2024-11-07 07:01:08+00"
+    "resolution_date": "2024-11-07"
   },
   {
     "name": "Who will win Wyoming in the US Senate Election?",
@@ -1277,6 +1261,6 @@
     "d_won": "FALSE",
     "d_market_slug": "will-a-democrat-win-wyoming-us-senate-election",
     "r_market_slug": "will-a-republican-win-wyoming-us-senate-election",
-    "resolution_date": "2024-11-07 02:13:40+00"
+    "resolution_date": "2024-11-07"
   }
 ]

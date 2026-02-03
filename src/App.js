@@ -154,7 +154,6 @@ function App() {
   const failedPredictions7d = [
     { name: 'Who will win the popular vote?', prob: '57.0%', actual: 'R', error: 'Predicted D, R won', volume: '$283.7M' },
     { name: 'Who will win Pennsylvania in the US Senate Election?', prob: '69.0%', actual: 'R', error: 'Predicted D, R won', volume: '$4.9M' },
-    { name: 'Who will win the 2025 Virginia Attorney General election?', prob: '41.5%', actual: 'D', error: 'Predicted R, D won', volume: '$2.6M' },
   ];
 
   const failedPredictions1d = [
@@ -163,7 +162,6 @@ function App() {
     { name: 'Who will win Wisconsin in the Presidential Election?', prob: '58.5%', actual: 'R', error: 'Predicted D, R won', volume: '$9.3M' },
     { name: 'House control after 2024 election?', prob: '53.5%', actual: 'R', error: 'Predicted D, R won', volume: '$8.0M' },
     { name: 'Who will win Pennsylvania in the US Senate Election?', prob: '77.8%', actual: 'R', error: 'Predicted D, R won', volume: '$4.9M' },
-    { name: 'Who will win the 2025 Virginia Attorney General election?', prob: '44.0%', actual: 'D', error: 'Predicted R, D won', volume: '$2.6M' },
   ];
 
   return (
@@ -391,7 +389,7 @@ function App() {
                 How accurate were the prediction markets?
               </h2>
               <p style={{ fontSize: '14px', color: '#666', margin: '0 0 32px 0', textAlign: 'center' }}>
-                7 days before election (left) vs 1 day before election (right) • 80 markets total
+                7 days before election (left) vs 1 day before election (right) • 79 markets total
               </p>
 
               <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'flex-start', gap: '40px' }}>
@@ -418,30 +416,30 @@ function App() {
                       </div>
 
                       <div style={{ display: 'flex', gap: '8px', marginBottom: '8px' }}>
-                        <div style={{ width: '120px', height: '120px', background: 'rgba(52, 152, 219, 0.95)', borderRadius: '4px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
+                        <div style={{ width: '120px', height: '120px', background: '#404040', borderRadius: '4px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
                           <span style={{ fontSize: '32px', fontWeight: 700, color: 'white' }}>46</span>
-                          <span style={{ fontSize: '13px', color: 'rgba(255,255,255,0.9)' }}>57.5%</span>
+                          <span style={{ fontSize: '13px', color: 'rgba(255,255,255,0.9)' }}>58.2%</span>
                         </div>
-                        <div style={{ width: '120px', height: '120px', background: 'rgba(52, 152, 219, 0.25)', borderRadius: '4px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
+                        <div style={{ width: '120px', height: '120px', background: '#d0d0d0', borderRadius: '4px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
                           <span style={{ fontSize: '32px', fontWeight: 700, color: '#1a1a1a' }}>2</span>
                           <span style={{ fontSize: '13px', color: '#1a1a1a' }}>2.5%</span>
                         </div>
                       </div>
 
                       <div style={{ display: 'flex', gap: '8px' }}>
-                        <div style={{ width: '120px', height: '120px', background: 'rgba(52, 152, 219, 0.25)', borderRadius: '4px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
-                          <span style={{ fontSize: '32px', fontWeight: 700, color: '#1a1a1a' }}>1</span>
-                          <span style={{ fontSize: '13px', color: '#1a1a1a' }}>1.2%</span>
+                        <div style={{ width: '120px', height: '120px', background: '#d0d0d0', borderRadius: '4px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
+                          <span style={{ fontSize: '32px', fontWeight: 700, color: '#1a1a1a' }}>0</span>
+                          <span style={{ fontSize: '13px', color: '#1a1a1a' }}>0.0%</span>
                         </div>
-                        <div style={{ width: '120px', height: '120px', background: 'rgba(52, 152, 219, 0.7)', borderRadius: '4px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
+                        <div style={{ width: '120px', height: '120px', background: '#606060', borderRadius: '4px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
                           <span style={{ fontSize: '32px', fontWeight: 700, color: 'white' }}>31</span>
-                          <span style={{ fontSize: '13px', color: 'rgba(255,255,255,0.9)' }}>38.8%</span>
+                          <span style={{ fontSize: '13px', color: 'rgba(255,255,255,0.9)' }}>39.2%</span>
                         </div>
                       </div>
                     </div>
                   </div>
                   <p style={{ fontSize: '14px', color: '#1a1a1a', textAlign: 'center', marginTop: '12px', fontWeight: 600 }}>
-                    7 days before • 96.2% accuracy
+                    7 days before • 97.5% accuracy
                   </p>
                 </div>
 
@@ -470,30 +468,30 @@ function App() {
                       </div>
 
                       <div style={{ display: 'flex', gap: '8px', marginBottom: '8px' }}>
-                        <div style={{ width: '120px', height: '120px', background: 'rgba(231, 76, 60, 0.9)', borderRadius: '4px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
+                        <div style={{ width: '120px', height: '120px', background: '#404040', borderRadius: '4px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
                           <span style={{ fontSize: '32px', fontWeight: 700, color: 'white' }}>43</span>
-                          <span style={{ fontSize: '13px', color: 'rgba(255,255,255,0.9)' }}>53.8%</span>
+                          <span style={{ fontSize: '13px', color: 'rgba(255,255,255,0.9)' }}>54.4%</span>
                         </div>
-                        <div style={{ width: '120px', height: '120px', background: 'rgba(231, 76, 60, 0.3)', borderRadius: '4px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
+                        <div style={{ width: '120px', height: '120px', background: '#d0d0d0', borderRadius: '4px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
                           <span style={{ fontSize: '32px', fontWeight: 700, color: '#1a1a1a' }}>5</span>
-                          <span style={{ fontSize: '13px', color: '#1a1a1a' }}>6.2%</span>
+                          <span style={{ fontSize: '13px', color: '#1a1a1a' }}>6.3%</span>
                         </div>
                       </div>
 
                       <div style={{ display: 'flex', gap: '8px' }}>
-                        <div style={{ width: '120px', height: '120px', background: 'rgba(231, 76, 60, 0.2)', borderRadius: '4px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
-                          <span style={{ fontSize: '32px', fontWeight: 700, color: '#1a1a1a' }}>1</span>
-                          <span style={{ fontSize: '13px', color: '#1a1a1a' }}>1.2%</span>
+                        <div style={{ width: '120px', height: '120px', background: '#d0d0d0', borderRadius: '4px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
+                          <span style={{ fontSize: '32px', fontWeight: 700, color: '#1a1a1a' }}>0</span>
+                          <span style={{ fontSize: '13px', color: '#1a1a1a' }}>0.0%</span>
                         </div>
-                        <div style={{ width: '120px', height: '120px', background: 'rgba(231, 76, 60, 0.7)', borderRadius: '4px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
+                        <div style={{ width: '120px', height: '120px', background: '#606060', borderRadius: '4px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
                           <span style={{ fontSize: '32px', fontWeight: 700, color: 'white' }}>31</span>
-                          <span style={{ fontSize: '13px', color: 'rgba(255,255,255,0.9)' }}>38.8%</span>
+                          <span style={{ fontSize: '13px', color: 'rgba(255,255,255,0.9)' }}>39.2%</span>
                         </div>
                       </div>
                     </div>
                   </div>
                   <p style={{ fontSize: '14px', color: '#1a1a1a', textAlign: 'center', marginTop: '12px', fontWeight: 600 }}>
-                    1 day before • 92.5% accuracy
+                    1 day before • 93.7% accuracy
                   </p>
                 </div>
               </div>
@@ -507,7 +505,7 @@ function App() {
                 </h3>
                 <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '14px' }}>
                   <thead>
-                    <tr style={{ background: '#3498db', color: 'white' }}>
+                    <tr style={{ background: '#404040', color: 'white' }}>
                       <th style={{ padding: '12px 16px', textAlign: 'left', fontWeight: 600 }}>Market</th>
                       <th style={{ padding: '12px 16px', textAlign: 'center', fontWeight: 600, width: '80px' }}>D Prob</th>
                       <th style={{ padding: '12px 16px', textAlign: 'center', fontWeight: 600, width: '60px' }}>Actual</th>
@@ -535,7 +533,7 @@ function App() {
                 </h3>
                 <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '14px' }}>
                   <thead>
-                    <tr style={{ background: '#e74c3c', color: 'white' }}>
+                    <tr style={{ background: '#404040', color: 'white' }}>
                       <th style={{ padding: '12px 16px', textAlign: 'left', fontWeight: 600 }}>Market</th>
                       <th style={{ padding: '12px 16px', textAlign: 'center', fontWeight: 600, width: '80px' }}>D Prob</th>
                       <th style={{ padding: '12px 16px', textAlign: 'center', fontWeight: 600, width: '60px' }}>Actual</th>
@@ -574,7 +572,7 @@ function App() {
                   </div>
                   <div style={{ width: '150px', height: '32px', display: 'flex', justifyContent: 'flex-end' }}></div>
                   <div style={{ width: '2px', height: '32px', background: '#333' }}></div>
-                  <div style={{ width: '54px', height: '32px', background: '#3498db', borderRadius: '0 4px 4px 0' }}></div>
+                  <div style={{ width: '54px', height: '32px', background: '#3b82f6', borderRadius: '0 4px 4px 0' }}></div>
                   <div style={{ marginLeft: '8px', fontSize: '16px', fontWeight: 700, color: '#1a1a1a' }}>+3.6pp</div>
                 </div>
 
@@ -584,7 +582,7 @@ function App() {
                   </div>
                   <div style={{ width: '150px', height: '32px', display: 'flex', justifyContent: 'flex-end' }}></div>
                   <div style={{ width: '2px', height: '32px', background: '#333' }}></div>
-                  <div style={{ width: '95px', height: '32px', background: '#e74c3c', borderRadius: '0 4px 4px 0' }}></div>
+                  <div style={{ width: '95px', height: '32px', background: '#3b82f6', borderRadius: '0 4px 4px 0' }}></div>
                   <div style={{ marginLeft: '8px', fontSize: '16px', fontWeight: 700, color: '#1a1a1a' }}>+6.3pp</div>
                 </div>
 
@@ -626,7 +624,7 @@ function App() {
                       style={{
                         width: '50px',
                         height: d.accuracy ? `${(d.accuracy - 80) * 6}px` : '0px',
-                        background: d.day === 7 ? '#3498db' : d.day === 1 ? '#e74c3c' : '#95a5a6',
+                        background: d.day === 7 ? '#404040' : d.day === 1 ? '#606060' : '#808080',
                         borderRadius: '4px 4px 0 0',
                         minHeight: d.accuracy ? '20px' : '0',
                       }}
