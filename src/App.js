@@ -416,24 +416,28 @@ function App() {
                       </div>
 
                       <div style={{ display: 'flex', gap: '8px', marginBottom: '8px' }}>
-                        <div style={{ width: '120px', height: '120px', background: '#404040', borderRadius: '4px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
+                        {/* TN: Predicted R, R won — correct */}
+                        <div style={{ width: '120px', height: '120px', background: '#14532d', borderRadius: '4px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
                           <span style={{ fontSize: '32px', fontWeight: 700, color: 'white' }}>46</span>
-                          <span style={{ fontSize: '13px', color: 'rgba(255,255,255,0.9)' }}>58.2%</span>
+                          <span style={{ fontSize: '13px', color: 'rgba(255,255,255,0.85)' }}>58.2%</span>
                         </div>
-                        <div style={{ width: '120px', height: '120px', background: '#d0d0d0', borderRadius: '4px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
-                          <span style={{ fontSize: '32px', fontWeight: 700, color: '#1a1a1a' }}>2</span>
-                          <span style={{ fontSize: '13px', color: '#1a1a1a' }}>2.5%</span>
+                        {/* FP: Predicted D, R won — incorrect */}
+                        <div style={{ width: '120px', height: '120px', background: '#c0392b', borderRadius: '4px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
+                          <span style={{ fontSize: '32px', fontWeight: 700, color: 'white' }}>2</span>
+                          <span style={{ fontSize: '13px', color: 'rgba(255,255,255,0.85)' }}>2.5%</span>
                         </div>
                       </div>
 
                       <div style={{ display: 'flex', gap: '8px' }}>
-                        <div style={{ width: '120px', height: '120px', background: '#d0d0d0', borderRadius: '4px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
-                          <span style={{ fontSize: '32px', fontWeight: 700, color: '#1a1a1a' }}>0</span>
-                          <span style={{ fontSize: '13px', color: '#1a1a1a' }}>0.0%</span>
+                        {/* FN: Predicted R, D won — incorrect (empty) */}
+                        <div style={{ width: '120px', height: '120px', background: '#c0392b', borderRadius: '4px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
+                          <span style={{ fontSize: '32px', fontWeight: 700, color: 'white' }}>0</span>
+                          <span style={{ fontSize: '13px', color: 'rgba(255,255,255,0.85)' }}>0.0%</span>
                         </div>
-                        <div style={{ width: '120px', height: '120px', background: '#606060', borderRadius: '4px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
+                        {/* TP: Predicted D, D won — correct */}
+                        <div style={{ width: '120px', height: '120px', background: '#14532d', borderRadius: '4px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
                           <span style={{ fontSize: '32px', fontWeight: 700, color: 'white' }}>31</span>
-                          <span style={{ fontSize: '13px', color: 'rgba(255,255,255,0.9)' }}>39.2%</span>
+                          <span style={{ fontSize: '13px', color: 'rgba(255,255,255,0.85)' }}>39.2%</span>
                         </div>
                       </div>
                     </div>
@@ -468,24 +472,28 @@ function App() {
                       </div>
 
                       <div style={{ display: 'flex', gap: '8px', marginBottom: '8px' }}>
-                        <div style={{ width: '120px', height: '120px', background: '#404040', borderRadius: '4px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
+                        {/* TN: Predicted R, R won — correct */}
+                        <div style={{ width: '120px', height: '120px', background: '#14532d', borderRadius: '4px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
                           <span style={{ fontSize: '32px', fontWeight: 700, color: 'white' }}>43</span>
-                          <span style={{ fontSize: '13px', color: 'rgba(255,255,255,0.9)' }}>54.4%</span>
+                          <span style={{ fontSize: '13px', color: 'rgba(255,255,255,0.85)' }}>54.4%</span>
                         </div>
-                        <div style={{ width: '120px', height: '120px', background: '#d0d0d0', borderRadius: '4px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
-                          <span style={{ fontSize: '32px', fontWeight: 700, color: '#1a1a1a' }}>5</span>
-                          <span style={{ fontSize: '13px', color: '#1a1a1a' }}>6.3%</span>
+                        {/* FP: Predicted D, R won — incorrect */}
+                        <div style={{ width: '120px', height: '120px', background: '#c0392b', borderRadius: '4px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
+                          <span style={{ fontSize: '32px', fontWeight: 700, color: 'white' }}>5</span>
+                          <span style={{ fontSize: '13px', color: 'rgba(255,255,255,0.85)' }}>6.3%</span>
                         </div>
                       </div>
 
                       <div style={{ display: 'flex', gap: '8px' }}>
-                        <div style={{ width: '120px', height: '120px', background: '#d0d0d0', borderRadius: '4px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
-                          <span style={{ fontSize: '32px', fontWeight: 700, color: '#1a1a1a' }}>0</span>
-                          <span style={{ fontSize: '13px', color: '#1a1a1a' }}>0.0%</span>
+                        {/* FN: Predicted R, D won — incorrect (empty) */}
+                        <div style={{ width: '120px', height: '120px', background: '#c0392b', borderRadius: '4px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
+                          <span style={{ fontSize: '32px', fontWeight: 700, color: 'white' }}>0</span>
+                          <span style={{ fontSize: '13px', color: 'rgba(255,255,255,0.85)' }}>0.0%</span>
                         </div>
-                        <div style={{ width: '120px', height: '120px', background: '#606060', borderRadius: '4px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
+                        {/* TP: Predicted D, D won — correct */}
+                        <div style={{ width: '120px', height: '120px', background: '#14532d', borderRadius: '4px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
                           <span style={{ fontSize: '32px', fontWeight: 700, color: 'white' }}>31</span>
-                          <span style={{ fontSize: '13px', color: 'rgba(255,255,255,0.9)' }}>39.2%</span>
+                          <span style={{ fontSize: '13px', color: 'rgba(255,255,255,0.85)' }}>39.2%</span>
                         </div>
                       </div>
                     </div>
