@@ -1,9 +1,20 @@
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import './App.css';
 import electionData from './electionData.json';
 
 function App() {
   const [activeTab, setActiveTab] = useState('explorer');
+  const [isMobile, setIsMobile] = useState(window.innerWidth < 768);
+
+  useEffect(() => {
+    const handleResize = () => {
+      const mobile = window.innerWidth < 768;
+      setIsMobile(mobile);
+      if (mobile && activeTab === 'visualizations') setActiveTab('explorer');
+    };
+    window.addEventListener('resize', handleResize);
+    return () => window.removeEventListener('resize', handleResize);
+  }, [activeTab]);
   const [searchTerm, setSearchTerm] = useState('');
   const [sortField, setSortField] = useState('combined_volume');
   const [sortDirection, setSortDirection] = useState('desc');
@@ -195,9 +206,11 @@ function App() {
           <button style={tabStyle(activeTab === 'explorer')} onClick={() => setActiveTab('explorer')}>
             Data Explorer
           </button>
-          <button style={tabStyle(activeTab === 'visualizations')} onClick={() => setActiveTab('visualizations')}>
-            Visualizations
-          </button>
+          {!isMobile && (
+            <button style={tabStyle(activeTab === 'visualizations')} onClick={() => setActiveTab('visualizations')}>
+              Visualizations
+            </button>
+          )}
         </div>
 
         {/* Explorer Tab */}
