@@ -386,7 +386,7 @@ function App() {
             {/* Confusion Matrices */}
             <div style={{ maxWidth: '1000px', margin: '0 auto 60px auto' }}>
               <h2 style={{ fontSize: '24px', fontWeight: 700, color: '#1a1a1a', margin: '0 0 4px 0', textAlign: 'center' }}>
-                How accurate were the prediction markets?
+                How accurate were the polymarkets?
               </h2>
               <p style={{ fontSize: '14px', color: '#666', margin: '0 0 32px 0', textAlign: 'center' }}>
                 7 days before election (left) vs 1 day before election (right) • 79 markets total
@@ -567,7 +567,7 @@ function App() {
             {/* Directional Bias Chart */}
             <div style={{ maxWidth: '600px', margin: '0 auto', padding: '24px 0' }}>
               <h2 style={{ fontSize: '22px', fontWeight: 700, color: '#1a1a1a', margin: '0 0 4px 0', textAlign: 'left' }}>
-                How biased were the prediction markets?
+                How biased were the polymarkets?
               </h2>
               <p style={{ fontSize: '14px', color: '#666', margin: '0 0 32px 0' }}>
                 Directional bias in percentage points (positive = overestimated Democrat chances)
